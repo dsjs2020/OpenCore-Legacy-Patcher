@@ -37,6 +37,7 @@ To aid users in troubleshooting, we've compiled a list of users who've reported 
 | MacBookPro5,1 | ^^ | GURU_Jasho#5736 | - Stock model <br/>- Patcher version 0.0.21 |
 | MacBookPro5,2 | ^^ | hvds | ^^ |
 | MacBookPro5,3 | ^^ | kommtzeitkonrad | - Stock model <br/>- Patcher version 0.0.22 |
+| ^^ | ^^ | dsjs2020 | - 8 GB RAM <br/>- 500 GB SSD <br/>- Patcher version 0.1.6 <br/>- video acceleration working |
 | MacBookPro5,4 | No reports | N/A | N/A |
 | MacBookPro5,5 | ^^ | ^^ | ^^ |
 | MacBookPro6,1 | ^^ | ^^ | ^^ |
